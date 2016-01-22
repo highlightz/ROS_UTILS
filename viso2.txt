@@ -1,0 +1,7 @@
+# Date: 2016-01-22
+http://rosindex.github.io/p/viso2_ros/github-srv-viso2/#indigo-deps
+
+https://www.packtpub.com/packtlib/login
+
+Bagfile download:
+http://srv.uib.es/public/viso2_ros/sample_bagfiles/test.bag
