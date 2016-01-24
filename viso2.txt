@@ -1,7 +1,22 @@
-# Date: 2016-01-22
+# Date: 2016-01-24
 http://rosindex.github.io/p/viso2_ros/github-srv-viso2/#indigo-deps
 
 https://www.packtpub.com/packtlib/login
 
 Bagfile download:
 http://srv.uib.es/public/viso2_ros/sample_bagfiles/test.bag
+
+<bumblebee2 calibration>
+  <Note>
+  This is a core part of all computations. And any error in this part is not allowed.
+  </Note>
+  
+  <Question>
+  Can the relative relationship, e.g. baseline and rotation matrix be correctly computed,
+  from the generated .yaml calibration file.
+  </Question>
+</bumblebee2 calibration>
+
+<link>
+http://answers.ros.org/question/209955/viso2-stereo-disparity/
+</link>
